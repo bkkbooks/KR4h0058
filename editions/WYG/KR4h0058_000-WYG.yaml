@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0058/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部八
+  hash: sha256:2ca6b36e125227017052aabb38e83ed63103fdf152cf0be95bdfb58f63de9d79
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0058_WYG_000-1a, image: WYG1359/WYG1359-0001a.png}
+body:
+  text: 古文集成總集類提要臣等謹案古文集成七十八巻舊本題廬陵王霆震亨福編不著時代觀其標識名字魏徵猶作魏證而宋人奏議於朝廷國家諸字皆空一格葢南宋書肆本也巻端題新刊諸儒評㸃字原本於吕祖謙之古文闗鍵真徳秀之文章正宗樓昉之迂齋古文標註一圈一㸃無不具載其殆理宗時所刊乎集以十干為紀而自甲至癸皆稱曰前某集則有後集而佚之矣凡甲集六巻乙集八巻丙集七巻丁集九巻戊集八巻已集八巻庚集八巻辛集七巻壬集八巻癸集九巻所録自春秋以逮南宋計文五百二十二首而宋文居十之八雖多習見之作而當日名流其集不傳於今者如馬存曽丰程大昌陳謙方恬鄭景望諸人亦頗賴以存所引諸評如槐城松齋斆齋郎學士戴溪筆議東塾燕談之類今亦罕見其書且有未知其名者宋人選本傳世者稀錄而存之亦足以資循覽也乾隆四十四年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:a0667307189c222b56b3150a6660abdeed4bdc54c88b67adeb71ec4e574396b0
+metadata:
+  title: 古文集成
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:34:09.557830'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4h0058/KR4h0058_000.txt
+hash: sha256:1d1a4980d8c4f06435fad3de484999632e5e3f65f60e9a0909b7a39f84927718
