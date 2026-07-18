@@ -712,6 +712,7 @@ markers:
   - {type: line-break, offset: 2226, content: '', id: KR4h0058_WYG_062-8b07}
   - {type: indent, offset: 2226, content: 　, id: KR4h0058_krp_062-bkkind120}
   - {type: punctuation, offset: 2231, content: (, id: KR4h0058_krp_062-bkkpn1}
+  - {type: voice, offset: 2231, length: 27, name: note, id: n1}
   - {type: punctuation, offset: 2245, content: /, id: KR4h0058_krp_062-bkkpn2}
   - {type: punctuation, offset: 2258, content: ), id: KR4h0058_krp_062-bkkpn3}
   - {type: 'kr:newline', offset: 2259, content: '
@@ -720,6 +721,7 @@ markers:
   - {type: line-break, offset: 2259, content: '', id: KR4h0058_WYG_062-8b08}
   - {type: indent, offset: 2259, content: 　, id: KR4h0058_krp_062-bkkind121}
   - {type: punctuation, offset: 2273, content: (, id: KR4h0058_krp_062-bkkpn4}
+  - {type: voice, offset: 2273, length: 15, name: note, id: n2}
   - {type: punctuation, offset: 2279, content: /, id: KR4h0058_krp_062-bkkpn5}
   - {type: punctuation, offset: 2285, content: ), id: KR4h0058_krp_062-bkkpn6}
   - {type: 'kr:newline', offset: 2285, content: '
@@ -742,6 +744,7 @@ markers:
   - {type: indent, offset: 2306, content: 　, id: KR4h0058_krp_062-bkkind123}
   - {type: substitution, offset: 2311, original: 叙, replacement: 敘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16962}}
   - {type: punctuation, offset: 2320, content: (, id: KR4h0058_krp_062-bkkpn10}
+  - {type: voice, offset: 2320, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 2322, content: /, id: KR4h0058_krp_062-bkkpn11}
   - {type: punctuation, offset: 2322, content: ), id: KR4h0058_krp_062-bkkpn12}
   - {type: 'kr:newline', offset: 2326, content: '
@@ -1057,4 +1060,4 @@ markers:
 
       ', id: KR4h0058_krp_062-bkkkrnewl203}
   back: []
-hash: sha256:fd9d12586e476704c9038400c44053457eee577587995bb5e9f1fb8eb4a11177
+hash: sha256:56a5a67466ff2d5bee60570da514955e259252711a19ccf00d03b0d223acfe8b

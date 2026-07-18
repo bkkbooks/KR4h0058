@@ -32,6 +32,7 @@ markers:
   - {type: line-break, offset: 18, content: '', id: KR4h0058_WYG_072-1a05}
   - {type: indent, offset: 18, content: 　　, id: KR4h0058_krp_072-bkkind7}
   - {type: punctuation, offset: 22, content: (, id: KR4h0058_krp_072-bkkpn1}
+  - {type: voice, offset: 22, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 24, content: /, id: KR4h0058_krp_072-bkkpn2}
   - {type: punctuation, offset: 24, content: ), id: KR4h0058_krp_072-bkkpn3}
   - {type: 'kr:newline', offset: 24, content: '
@@ -151,6 +152,7 @@ markers:
   - {type: line-break, offset: 418, content: '', id: KR4h0058_WYG_072-2b02}
   - {type: indent, offset: 418, content: 　　, id: KR4h0058_krp_072-bkkind11}
   - {type: punctuation, offset: 421, content: (, id: KR4h0058_krp_072-bkkpn4}
+  - {type: voice, offset: 421, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 423, content: /, id: KR4h0058_krp_072-bkkpn5}
   - {type: punctuation, offset: 423, content: ), id: KR4h0058_krp_072-bkkpn6}
   - {type: indent, offset: 423, content: 　, id: KR4h0058_krp_072-bkkind12}
@@ -328,6 +330,7 @@ markers:
   - {type: indent, offset: 963, content: 　　, id: KR4h0058_krp_072-bkkind32}
   - {type: substitution, offset: 963, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 967, content: (, id: KR4h0058_krp_072-bkkpn10}
+  - {type: voice, offset: 967, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 969, content: /, id: KR4h0058_krp_072-bkkpn11}
   - {type: punctuation, offset: 969, content: ), id: KR4h0058_krp_072-bkkpn12}
   - {type: indent, offset: 969, content: 　, id: KR4h0058_krp_072-bkkind33}
@@ -559,4 +562,4 @@ markers:
 
       ', id: KR4h0058_krp_072-bkkkrnewl107}
   back: []
-hash: sha256:bf1347a09fd04d7d93db69c2c419015786883d38ed558c219c4b179481275d97
+hash: sha256:3493a47efbc703547b0d6c3daedbbca20feb6fc000ecd878a502f07d700f2b43
